@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name Connectors_Hirose_extra)(type KiCad)(uri ${KIPRJMOD}/Connectors_Hirose_extra.pretty)(options "")(descr ""))
+  (lib (name soicbite)(type KiCad)(uri ${KIPRJMOD}/soicbite.pretty)(options "")(descr ""))
+  (lib (name sao)(type KiCad)(uri ${KIPRJMOD}/sao.pretty)(options "")(descr ""))
+  (lib (name keyboard)(type KiCad)(uri ${KIPRJMOD}/keyboard.pretty)(options "")(descr ""))
+  (lib (name aramcon)(type KiCad)(uri ${KIPRJMOD}/aramcon.pretty)(options "")(descr ""))
+)

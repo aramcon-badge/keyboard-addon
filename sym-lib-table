@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Keyboard)(type Legacy)(uri ${KIPRJMOD}/lib/keyboard.lib)(options "")(descr ""))
+  (lib (name SAO)(type Legacy)(uri ${KIPRJMOD}/lib/badgelife_shitty_addon_v169bis.lib)(options "")(descr ""))
+)
