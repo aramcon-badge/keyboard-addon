@@ -21,6 +21,7 @@ F 0 "U2" H 5150 1119 50  0000 C CNN
 F 1 "STM32F030C8Tx" H 5150 1210 50  0000 C CNN
 F 2 "Package_QFP:LQFP-48_7x7mm_P0.5mm" H 4650 1400 50  0001 R CNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00088500.pdf" H 5150 2900 50  0001 C CNN
+F 4 "C23922" H 5150 2900 50  0001 C CNN "LCSC Part"
 	1    5150 2900
 	-1   0    0    1   
 $EndComp
@@ -52,6 +53,7 @@ F 0 "R1" H 9280 1854 50  0000 R CNN
 F 1 "10K" H 9280 1945 50  0000 R CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" V 9280 1900 50  0001 C CNN
 F 3 "~" H 9350 1900 50  0001 C CNN
+F 4 "C25804" H 9350 1900 50  0001 C CNN "LCSC Part"
 	1    9350 1900
 	-1   0    0    1   
 $EndComp
